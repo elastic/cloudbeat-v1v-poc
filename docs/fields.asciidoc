@@ -3,13 +3,15 @@
 This file is generated! See _meta/fields.yml and scripts/generate_fields_docs.py
 ////
 
+:edit_url:
+
 [[exported-fields]]
 = Exported fields
 
 [partintro]
 
 --
-This document describes the fields that are exported by Cloudbeat. They are
+This document describes the fields that are exported by Cloudbeat-V1V-Poc. They are
 grouped in the following categories:
 
 * <<exported-fields-beat-common>>
@@ -15684,3 +15686,4 @@ type: text
 
 --
 
+:edit_url!:
